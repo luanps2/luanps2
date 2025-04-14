@@ -19,11 +19,10 @@ Minhas principais habilidades incluem:
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanps2&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanps2&layout=compact&theme=radical)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=luanps2&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanps2&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luanps2&show_icons=true&theme=radical&count_private=true" />
+</div>
 
 ---
 
