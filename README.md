@@ -1,5 +1,4 @@
-## 👋 Olá! Eu sou o Luan da Costa Oliveira Espósito
-
+## 👋 Olá! Eu sou o Luan.
 Sou docente de Informática com mais de 10 anos de experiência, atuando no Senac São Paulo. Tenho paixão por ensinar e compartilhar conhecimento nas áreas de desenvolvimento de software, banco de dados, análise de dados e tecnologia em geral.
 
 Minhas principais habilidades incluem:
