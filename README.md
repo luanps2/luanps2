@@ -9,11 +9,32 @@ Minhas principais habilidades incluem:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL / SQL Server" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+
+  <!-- SQL Server -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" alt="SQL Server" />
+
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+
+  <!-- Excel -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" alt="Excel" />
+
+  <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" alt="Power BI" />
+
+  <!-- Entity Framework -->
+  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" width="40" alt="Entity Framework" title="Entity Framework" />
+
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+
+  <!-- Terminal -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Terminal / Bash" />
 </div>
+
 
 ---
 
