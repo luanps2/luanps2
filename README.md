@@ -40,8 +40,10 @@ Minhas principais habilidades incluem:
 
 ### 📊 Estatísticas do GitHub
 
-<div align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanps2&layout=compact&theme=radical" /> <img height="170" src="https://github-readme-stats.vercel.app/api?username=luanps2&show_icons=true&theme=radical&count_private=true" /> </div>
-
+<div align="left">
+   <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanps2&theme=dracula" />
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanps2&theme=dracula" />
+</div>
 ---
 
 ### 📈 Histórico de Contribuições
