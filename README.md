@@ -42,6 +42,7 @@ Minhas principais habilidades incluem:
 
 <div align="left">
    <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanps2&theme=dracula" />
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanps2&theme=dracula" />
   <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanps2&theme=dracula" />
 </div>
 ---
