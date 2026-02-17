@@ -4,6 +4,8 @@ Sou docente de Informática com mais de 10 anos de experiência, atuando no Sena
 Minhas principais habilidades incluem:
 
 <div align="left">
+    <!-- Entity Framework -->
+  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" width="40" alt="Entity Framework" title="Entity Framework" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
@@ -24,9 +26,6 @@ Minhas principais habilidades incluem:
 
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" alt="Power BI" />
-
-  <!-- Entity Framework -->
-  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" width="40" alt="Entity Framework" title="Entity Framework" />
 
   <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
